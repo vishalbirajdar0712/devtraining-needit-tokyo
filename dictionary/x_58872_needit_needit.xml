@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bb8d0a2247f221105ce2dac8536d4369" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element label="My Application" max_length="40" name="my_application" type="string"/>
+    </element>
+</database>
